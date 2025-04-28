@@ -1,0 +1,11 @@
+{
+  "name": "photo-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+} 

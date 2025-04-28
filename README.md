@@ -11,7 +11,7 @@
 	- file path
 	- etc.
 ## next steps
-- see `doc/rodamap.md` and `doc/tasks.md`
+- see `docs/rodamap.md` and `docs/tasks.md`
 ## repo structure
 ```
 photo-organizer/

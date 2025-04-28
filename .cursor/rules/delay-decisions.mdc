@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Don't make descisions before you have to. For example if you are working through a list of tasks, and one of the tasks is to set up the project, don't add a bunch of packages you _think_ we'll need. Only add what you need to get to the next step.
