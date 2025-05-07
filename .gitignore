@@ -16,6 +16,7 @@ out/
 
 # Database
 volumes/
+uploads/
 
 # Logs
 *.log
